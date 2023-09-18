@@ -1,0 +1,6 @@
+{
+	"name": "my-app",
+	"description": "A seed project for building DLang with docker and OCI in general",
+	"authors": ["Filip Malczak"],
+	"license": "MIT"
+}
